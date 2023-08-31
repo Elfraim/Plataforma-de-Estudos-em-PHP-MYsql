@@ -1,6 +1,7 @@
 # Plataforma-de-Estudos-em-PHP-MYsql
 Uma plataforma de estudos em que você pode criar exercicios e conteudos 
 e pode resolver exercicios e conteudos de outras pessoas tambem
+[link:] (https://plataforma-estudos.000webhostapp.com/home.php)
 
 ## Publique conteudo para a comunidade 
 voce pode criar conteudo na aba meus conteudos e so clicar em nova aula
